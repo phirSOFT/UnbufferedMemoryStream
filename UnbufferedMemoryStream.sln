@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnbufferedMemoryStream", "UnbufferedMemoryStream\UnbufferedMemoryStream.csproj", "{2417C9A8-758F-431E-B718-97C98E082A44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Tests1", "NUnit.Tests1\NUnit.Tests1.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryTest", "MemoryTest\MemoryTest.csproj", "{EE1B30F5-02A5-422E-B14D-46FEF3695B71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2417C9A8-758F-431E-B718-97C98E082A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2417C9A8-758F-431E-B718-97C98E082A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2417C9A8-758F-431E-B718-97C98E082A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1B30F5-02A5-422E-B14D-46FEF3695B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1B30F5-02A5-422E-B14D-46FEF3695B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1B30F5-02A5-422E-B14D-46FEF3695B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1B30F5-02A5-422E-B14D-46FEF3695B71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
